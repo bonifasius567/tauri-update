@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "url": "https://github.com/bonifasius567/tauri-update/releases/download/test/dfast_0.0.1_x64_en-US.msi",
-      "signature": "https://github.com/bonifasius567/tauri-update/releases/download/test/dfast_0.0.1_x64_en-US.msi.sig"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUnpXTVNWS0s1ekUxQzk3VkpydVB4N1Z0RTBOTEhtVDdzTUFtaExPNGEvcmlPQW4ydE9SNExqZnBTL05tVXhtWFJ5SG9XbXpWbDNSV09udWxMakE0T2w0OWE1NFdJZWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM0MjM1OTk1CWZpbGU6ZGZhc3RfMC4wLjFfeDY0X2VuLVVTLm1zaQo0UFphTHdsMjRuUUZEMEM3NFVCQ2Z2U3Vpbm41dlY3Z3NJMlFDYjdydFFVUDIrQm9weGtDVUVlWlpDOW41ZWNBMHcvN0dJZlcyUDdtWndsWXVzaWhDUT09Cg=="
     }
   }
 }
