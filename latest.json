@@ -1,7 +1,7 @@
 {
   "version": "0.0.2",
   "pub_date": "2024-12-15T11:48:00Z",
-  "url": "",
-  "signature": "",
+  "url": "https://github.com/bonifasius567/tauri-update/releases/download/test/dfast_0.0.1_x64_en-US.msi",
+  "signature": "https://github.com/bonifasius567/tauri-update/releases/download/test/dfast_0.0.1_x64_en-US.msi.sig",
   "notes": "test"
 }
