@@ -4,8 +4,8 @@
   "pub_date": "2024-12-15T11:48:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/bonifasius567/tauri-update/releases/download/v0.0.1/dfast_0.0.1_x64_en-US.msi",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMDJSZGNKaGpRRkxsNTI1RjFUZHZydGZNbURtLzdrSnhKY29MejZCQ2NQQkYxaUNJSkFTZmdVSUhiT2UwMkdlYVhnRkMvZ0doajVmUm11MVlIUjdZMHQrU256K1hjbndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM0MjUwNDczCWZpbGU6ZGZhc3RfMC4wLjFfeDY0X2VuLVVTLm1zaQpZNElBTTZzUGRKU0ErTUQyeHJFSDBZR2tFd0pVamN5UUhsdUl6Y2I0RFB4ZTJTNEtmbTVIU1M5ZXNscnJZVHliaHpxU3Y4N2F5a1gvZmVhRUZmUkdEZz09Cg=="
+      "url": "https://github.com/bonifasius567/tauri-update/releases/download/v.0.0.2/dfast_0.0.2_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMDJSZGNKaGpRRkd2OWhnTTY0NHh1d3hkN0R3YlB0RzMvamZTd1VTOXZuZFFTTjNvUjYzclVPWkZudWRsYkVZWC9nMUpiNldYa0dOWnNkTnFUaHpzWnl1bjk1V2tIWXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM0MzEyODA2CWZpbGU6ZGZhc3RfMC4wLjJfeDY0X2VuLVVTLm1zaQpVTlJzK3ZDMlFxVUNEeWd0bVN4N2U0YXJHM0MxLy9QTC9iVHFlVWFWZCt3amN1dHU0alIwbk4xTlVpcWc4Z3RCSFZwZFZpVnN5NUFNNXNmM1BEK0REQT09Cg=="
     }
   }
 }
